@@ -1,5 +1,16 @@
+# MacOS things
+.DS_Store
+
 # Prerequisites
 *.d
+
+# pytest
+env/
+.pytest_cache
+__pycache__
+
+# swp
+*.swp
 
 # Compiled Object files
 *.slo
